@@ -1,3 +1,5 @@
+Ce repository contient principalement l'API Elastic Search de la plateforme de veille juridique, permettant la recherche dans les textes juridiques de la Constitution, du Conseil d'État, de la Cour Suprême, et des journaux officiels.
+
 ## Getting Started
 
 ### Pull and run docker image
